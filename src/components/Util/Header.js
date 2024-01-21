@@ -102,7 +102,7 @@ const onChange = (event) => {
             <nav className="header__navigation">
                 <ul>
                     <li className="nav-link-container"><NavLink to="/" className="nav-link">Home</NavLink></li>
-                    <li className="nav-link-container"><NavLink to="/about" className="nav-link">About Us</NavLink></li>
+                    <li className="nav-link-container"><NavLink to="/about" className="nav-link">About Me</NavLink></li>
                     <li className="nav-link-container"><a href='https://github.com/Miadz6969/music-finder.git' target="_blank" rel="noopener noreferrer" className="nav-link">GitHub</a></li>
                 </ul>
             </nav>

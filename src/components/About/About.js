@@ -31,33 +31,14 @@ function About() {
         <Grid container className={classes.grid} spacing={2}>
             <Card className={classes.root} type="div">
                 <CardActionArea>
-                    <Avatar alt="Santatra Riantsoa" className={classes.large} src={"https://www.zupimages.net/up/20/13/2qbo.jpg"} />
+                    <Avatar alt="Andriamihaja Wahid" className={classes.large} src={"https://media.licdn.com/dms/image/D4D03AQHoU5TvWuKwkQ/profile-displayphoto-shrink_800_800/0/1688925980057?e=1711584000&v=beta&t=SCmyWuQbzGGx-WBHzO9LMst7ZoBkasFQ7KpSr-HnEts"} />
 
                     <CardContent>
                         <Typography gutterBottom variant="h5" component="h2">
-                            RAMANAMPAMONJY Santatriniaina Riantsoa
+                            RANAIVOSON Andriamihaja Wahid Gérard
           </Typography>
                         <Typography variant="body2" color="textSecondary" component="p">
-                            email :  <br /> santatriniaina.ramanampamonjy@etu.unice.fr
-          </Typography>
-                    </CardContent>
-                </CardActionArea>
-
-            </Card>
-
-            <Card className={classes.root}>
-                <CardActionArea>
-                    <Avatar alt="Nico ANDRIAMALALA" className={classes.large} src={"https://www.zupimages.net/up/20/13/7heh.jpg"} />
-                    <CardContent>
-                        <Typography gutterBottom variant="h5" component="h2">
-                            ANDRIAMALALA <br /> Louison Mamy Nico
-
-
-          </Typography>
-                        <Typography variant="body2" color="textSecondary" component="p">
-                            email : <br /> louison-mamy-nico.andriamalala@etu.univ-cotedazur.fr
-
-
+                            email :  <br /> ranaiawg@gmail.com
           </Typography>
                     </CardContent>
                 </CardActionArea>
